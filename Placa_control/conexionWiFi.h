@@ -1,18 +1,15 @@
 
-// Credenciales wifi
-const char* ssid     = "Juan David Carvajal";      // SSID
-const char* password = "Juancho1321";      // Password
 
-// const char* ssid     = "TP-LINK_DE16";      // SSID
-// const char* password = "67743667";      // Password
+// const char* ssid     = "xxxx";      // SSID
+// const char* password = "xxxx";      // Password
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 
 // Telegram BOT Token (Obtenido del Botfather)
-#define BOT_TOKEN "5379376541:AAGEwH1pLdq_7q5TOF3SltjNzBi-sKFp2Fk"
+#define BOT_TOKEN "5379376541:-sKFp2Fk"
 
 // ID del celular
-String chat_id = "1135952709";
+String chat_id = "xxxx";
 
 WiFiClientSecure secured_client;
 
