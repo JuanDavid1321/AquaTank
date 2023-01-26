@@ -1,5 +1,7 @@
 // Para implementar en el método SetUp del código fuente, la configuración necesaria de la red WiFi
 
+// Estoy probando los commit
+
 void configuracionWifi(){
   
   Serial.begin(115200);  //Inicializar monitor serie a x velocidad en baudios
