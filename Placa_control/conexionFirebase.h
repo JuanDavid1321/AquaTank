@@ -1,7 +1,7 @@
 
 // Credenciales Proyecto Firebase
-#define FIREBASE_HOST "https://pruebaelectrovalvula-c427e-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "tbtIaV7wn1ZJ9eX3ukpiRDnDeyB0GcVGtQFnAkyl"
+#define FIREBASE_HOST "https://.firebaseio.com/"
+#define FIREBASE_AUTH "xx"
 
 // Firebase Data object
 FirebaseData firebaseData;
