@@ -24,7 +24,17 @@ Este repositorio contiene el código fuente para un sistema de gestión de agua 
 1. Sube el código a tus placas ESP32 usando Arduino IDE.
 2. Conecta el sensor de distancia hc-sr04 y las electroválvulas a las placas ESP32.
 3. Configura los ajustes del sistema en el código.
-4. Ejecuta el código y monitorea el sistema mediante la API de bot de Telegram o la consola de Firebase.
+4. Ejecuta el código y monitorea el sistema mediante la API de bot de Telegram o la consola de Firebase.+
+
+## Esquemático conexiones
+
+- Conexión Sensor HC-SR04
+
+![SENSOR](/imagenes/sensor2.png)
+
+- Conexión Electroválvula
+
+![ELECTROVALVULA](/imagenes/electrovalvula.png)
 
 #
 
@@ -54,3 +64,13 @@ This repository contains the code for an IoT-based water management system that 
 2. Connect the hc-sr04 distance sensor and electrovalves to the ESP32 boards.
 3. Configure the system settings in the code.
 4. Run the code and monitor the system using the Telegram bot API or the Firebase console.
+
+## Connection schematic
+
+- HC-SR04 sensor connection
+
+![SENSOR](/imagenes/sensor2.png)
+
+- Solenoid valve connection
+
+![ELECTROVALVULA](/imagenes/electrovalvula.png)
