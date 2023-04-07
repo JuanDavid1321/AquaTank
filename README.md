@@ -28,7 +28,7 @@ Este repositorio contiene el código fuente para un sistema de gestión de agua 
 
 #
 
- Water Management System using ESP32
+# Water Management System using ESP32
 This repository contains the code for an IoT-based water management system that uses ESP32 boards for data acquisition and actuator control. The system includes a hc-sr04 distance sensor for water level measurement and real-time data storage in Firebase. The code is written in C and C++ using the Arduino IDE, and MySQL is used as the DBMS. The system also features a Telegram bot API for ESP32 and a state machine for controlling the water flow activation electrovalves.
 
 ## Features
